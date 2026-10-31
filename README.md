@@ -1,7 +1,7 @@
-# Website Transportasi PTKOM 2026
+# Website Transportasi (Tiket Bus) PTKOM 2026
 
 ## Deskripsi
-Website Transportasi merupakan proyek akhir PTKOM 2026 dengan tema Transportasi. 
+Website Tiket Bus merupakan proyek akhir PTKOM 2026 dengan tema Transportasi. 
 Website ini dirancang sebagai platform untuk membantu pengguna mencari perjalanan, 
 melihat jadwal dan informasi transportasi, melakukan pemesanan tiket, serta 
 mendapatkan tiket digital.
