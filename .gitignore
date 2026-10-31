@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+BackEnd/.env
+BackEnd/.env.*
+!BackEnd/.env.example
+
+# Logs
+*.log
+BackEnd/storage/logs/*.log
+
+# Database
+BackEnd/database/*.sqlite
+BackEnd/database/*.sqlite-journal
+
+# Dependencies
+BackEnd/vendor/
+node_modules/
+
+# Framework cache & sessions
+BackEnd/storage/framework/cache/data/*
+BackEnd/storage/framework/sessions/*
+BackEnd/storage/framework/views/*
+BackEnd/bootstrap/cache/*.php
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
