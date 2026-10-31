@@ -100,7 +100,7 @@ Website-Transportasi-PTKOM-2026/
 ## Link
 - Figma: https://www.figma.com/design/i49aPtFl1MjfsFIlCx9xBH/Untitled?m=auto&t=uDTJuLDOCspiFeCc-6
 - Website: [link website]
-- GitHub: [link repository]
+- GitHub: [(https://github.com/settianisimanjuntak/Website-Transportasi-PTKOM-Kelompok06.git)]
 
 ## Proyek
 Proyek Tugas Akhir PTKOM 2026  
