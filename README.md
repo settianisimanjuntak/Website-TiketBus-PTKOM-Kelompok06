@@ -1,4 +1,4 @@
-# Website Transportasi (Tiket Bus) PTKOM 2026
+# Website Tiket Bus (Transportasi) PTKOM 2026
 
 ## Deskripsi
 Website Tiket Bus merupakan proyek akhir PTKOM 2026 dengan tema Transportasi. 
@@ -17,7 +17,7 @@ mendapatkan tiket digital.
 Transportasi
 
 ## MVP
-MVP utama website adalah **pemesanan tiket transportasi**.
+MVP utama website adalah **pemesanan tiket bus**.
 
 Fitur utama yang dirancang meliputi:
 - Pencarian perjalanan berdasarkan informasi keberangkatan dan tujuan.
